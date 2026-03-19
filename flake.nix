@@ -1,4 +1,4 @@
 {
   description = "Empty flake for placeholder";
-  outputs = _: {};
+  outputs = _: { };
 }
